@@ -1,0 +1,10 @@
+Swipe Left
+Swipe Right
+Thumb Up
+Thumb Down
+Stop
+Zoom In
+Zoom Out
+Push
+Pull
+No Gesture
