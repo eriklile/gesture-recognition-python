@@ -34,10 +34,10 @@ Traditional video recognition models can be computationally expensive. This proj
 ### Pipeline
 
 Webcam Input  
-→ Frame Buffer (8 Frames)  
-→ MobileNetV2 Backbone  
-→ TSM Temporal Modeling  
-→ Gesture Prediction
+- Frame Buffer (8 Frames)  
+- MobileNetV2 Backbone  
+- TSM Temporal Modeling  
+- Gesture Prediction
 
 ---
 
